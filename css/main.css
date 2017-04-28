@@ -5,7 +5,7 @@ a {
  background-color: lightgray;
 }
 .bio-box {
-   border: 1px solid black;
+   border: 1px solid red;
 }
 .bio-box a {
     color: green;
