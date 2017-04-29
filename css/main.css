@@ -1,17 +1,23 @@
 
 
+/*GLOBAL STYLES*/
+
 a {
-  color: red;
+  color: rgba(204, 102, 255);
 }
-#exec-bio {
-  background-color: yellow;
-}
-.bio-box {
-  border: 1px solid black;
-}
-.bio-box  p a {
-  color: green;
-}
-a.social-link {
-  color: blue;
+
+/*SOCIAL STYLES*/
+.social-link {
+  background: rgba(150, 150, 150, 0.5);
+   color: blue;
     }
+
+
+/*BIO STYLES*/
+div.bio-box {
+  border: 1px solid green;
+}
+
+.bio-copy a {
+  color:  green;
+}
